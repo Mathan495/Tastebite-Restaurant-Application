@@ -82,6 +82,7 @@ The waiter dashboard provides:
 
 ### Waiter Workflow
 
+```text
 Customer Order
       ↓
 Pending
